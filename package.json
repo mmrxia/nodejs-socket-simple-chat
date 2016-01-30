@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-socket-simple-chat",
+  "version": "1.0.0",
+  "description": "nodejs socket simple chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xqs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
